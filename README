@@ -1,0 +1,3 @@
+Greedy Perimeter Stateless Routing with Carry-and-forward
+Part of undergraduate thesis "Simulation and analysis of routing protocols in Vehicular Networks"
+Based on implementation of original GPSR in https://code.google.com/archive/p/ns3-gpsr
